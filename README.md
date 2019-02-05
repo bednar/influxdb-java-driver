@@ -16,7 +16,7 @@ influxdb-java-client
 └── client-scala          InfluxDB 2.x - Scala
 │   
 │   
-└── client-legacy         InfluxDB 1.x - Pure Java
+└── client-legacy         InfluxDB 1.x Flux Query - Pure Java
 │   
 │   
 └── client-core           Shared tools for drives
@@ -34,7 +34,7 @@ influxdb-java-client
 ├── Client              InfluxDB 2.x - Pure C#
 │
 │
-├── Client.Legacy       InfluxDB 1.x - Pure C#
+├── Client.Legacy       InfluxDB 1.x Flux Query - Pure C#
 │
 │
 ├── Client.Core         Shared tools for drives
