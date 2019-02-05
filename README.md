@@ -1,25 +1,42 @@
+### Java
+
 ```
-influxdb-java-driver
+influxdb-java-client
 │
 │
-├── driver                InfluxDB 2.x - Pure Java
+├── client                InfluxDB 2.x - Pure Java
 │
 │   
-├── driver-reactive       InfluxDB 2.x - RxJava
+├── client-reactive       InfluxDB 2.x - RxJava
 │   
 │   
-└── driver-kotlin         InfluxDB 2.x - Kotlin
+└── client-kotlin         InfluxDB 2.x - Kotlin
 │   
 │   
-└── driver-scala          InfluxDB 2.x - Scala
+└── client-scala          InfluxDB 2.x - Scala
 │   
 │   
-└── driver-legacy         InfluxDB 1.x - Pure Java
+└── client-legacy         InfluxDB 1.x - Pure Java
 │   
 │   
-└── driver-core           Shared tools for drives
+└── client-core           Shared tools for drives
 │   
 │   
-└── driver-test           Test tools for drives
+└── client-test           Test tools for drives
+```
+
+
+### C#
+```
+influxdb-java-client
+│
+│
+├── Client              InfluxDB 2.x - Pure C#
+│
+│
+├── Client.Legacy       InfluxDB 1.x - Pure C#
+│
+│
+├── Client.Core         Shared tools for drives
 
 ```
